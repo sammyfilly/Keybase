@@ -181,7 +181,7 @@
     "redux-thunk": "2.3.0",
     "reselect": "3.0.1",
     "rn-fetch-blob": "0.10.13",
-    "semver": "5.5.1",
+    "semver": "7.5.2",
     "shallowequal": "1.1.0",
     "terser-webpack-plugin": "1.1.0",
     "tlds": "1.203.1",
