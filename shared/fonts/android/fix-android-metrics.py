@@ -19,4 +19,4 @@ for filename in glob.glob('./OpenSans*.ttf'):
     font.os2_typodescent = -250 - 45 - 70
 
     font.generate(font.path)
-    print('adjusted {}'.format(filename))
+    print(f'adjusted {filename}')
