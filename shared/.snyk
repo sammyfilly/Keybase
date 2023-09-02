@@ -3,6 +3,3 @@ version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
-        
-        
-     
