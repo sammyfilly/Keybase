@@ -3,8 +3,6 @@ version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
-  'npm:debug:20170905':
-    - regedit > debug:
-        patched: '2023-09-02T04:58:58.445Z'
-        id: 'npm:debug:20170905'
-        path: regedit > debug
+        
+        
+     
