@@ -137,3 +137,7 @@ patch:
         patched: '2023-09-04T20:24:50.004Z'
         id: SNYK-JS-LODASH-567746
         path: react-native > metro > metro-visualizer > antd > rc-tabs > lodash
+    - react-native-camera > lodash:
+        patched: '2023-09-07T20:57:00.924Z'
+        id: SNYK-JS-LODASH-567746
+        path: react-native-camera > lodash
