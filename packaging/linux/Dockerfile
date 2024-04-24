@@ -1,4 +1,4 @@
-FROM debian
+FROM debian:12.5
 MAINTAINER Keybase <admin@keybase.io>
 
 # Install dependencies from the standard repos.
