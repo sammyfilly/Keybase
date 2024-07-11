@@ -1050,10 +1050,10 @@ minimist@^1.2.0:
   dependencies:
     minimist "0.0.8"
 
-morphdom@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.7.0.tgz#9ef0c4bc15ac8725df398d127c6984f62e7f89e8"
-  integrity sha512-8L8DwbdjjWwM/aNqj7BSoSn4G7SQLNiDcxCnMWbf506jojR6lNQ5YOmQqXEIE8u3C492UlkN4d0hQwz97+M1oQ==
+morphdom@^2.7.3:
+  version "2.7.3"
+  resolved "https://registry.yarnpkg.com/morphdom/-/morphdom-2.7.3.tgz#84fa945cd057d313ca52124072c80be32dde9845"
+  integrity sha512-rvGK92GxSuPEZLY8D/JH07cG3BxyA+/F0Bxg32OoGAEFFhGWA3OqVpqPZlOgZTCR52clXrmz+z2pYSJ6gOig1w==
 
 ms@2.0.0:
   version "2.0.0"
